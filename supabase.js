@@ -17,8 +17,8 @@ import { createClient } from "https://cdn.jsdelivr.net/npm/@supabase/supabase-js
 // Prefer the new "publishable" key (sb_publishable_...). The legacy
 // "anon" key still works during the 2025-2026 migration window.
 // ---------------------------------------------------------------------
-const SUPABASE_URL = "https://YOUR-PROJECT-REF.supabase.co";
-const SUPABASE_PUBLISHABLE_KEY = "sb_publishable_REPLACE_ME";
+const SUPABASE_URL = "https://eptjikhlakzdcdtfufyx.supabase.co";
+const SUPABASE_PUBLISHABLE_KEY = "sb_publishable_YMyjVb9kuinUzmXwQfs4yw_hRtLW5Jx";
 
 // True once the two constants above are replaced with your real project
 // values. Until then the app runs in offline "local-only" mode (no network
